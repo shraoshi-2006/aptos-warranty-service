@@ -1,0 +1,9 @@
+[package]
+name = "WarrantyTracker"
+version = "1.0.0"
+
+[addresses]
+MyModule = "_"  # This will be replaced with your address
+
+[dependencies]
+AptosFramework = { git = "https://github.com/aptos-labs/aptos-core.git", subdir = "aptos-move/framework/aptos-framework/", rev = "main" }
