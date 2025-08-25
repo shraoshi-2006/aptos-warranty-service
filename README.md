@@ -7,10 +7,10 @@ It allows product owners to **register a product with warranty details** and **r
 
 ## 📂 Project Structure
 warranty_service/
-├─ Move.toml # Project config (update with your Aptos account address)
-├─ sources/
-│ └─ WarrantyService.move # Smart contract source code
-└─README.md
+ ├─ Move.toml        <-- ekhane address set korte hobe
+ ├─ sources/
+ │   └─ WarrantyService.move   <-- ekhane contract code paste korte hobe
+ └─ build/
 
 ---
 
