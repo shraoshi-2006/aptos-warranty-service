@@ -34,5 +34,4 @@ warranty_service/
    aptos move publish --assume-yes
 ## 🛠 Setup and Deployment
 git clone https://github.com/shraoshi-2006/aptos-warranty-service.git
-cd aptos-digital-health-id
 
